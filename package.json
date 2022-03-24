@@ -1,0 +1,19 @@
+{
+  "name": "1103",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "vite": "^2.6.13"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
